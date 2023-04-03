@@ -43,7 +43,7 @@ public class CapitalLetters {
          System.out.println("The number of capital letters base on the word you've been enteres is :" + capitalCount);
          
      } catch (Exception e) {
-         System.out.println("Error Input!! Please enter only a word");
+         System.out.println("Error Input!! Please enter a word only");
      }
      
  }
